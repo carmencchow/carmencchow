@@ -1,6 +1,6 @@
 ## Hi there! 👋
 
-I'm Carmen and welcome to my corner of the internet where I share some of the data projects I've worked on!
+I'm Carmen and welcome to my corner of the internet where I share some of the data projects I've worked on using SQL, Excel, Tableau, and R!
 
 - 🌱 I’m currently learning Python.
 - 💬 Ask me about data!
