@@ -1,15 +1,10 @@
 ## Hi there! 👋
 
-I'm Carmen and welcome to my corner of the internet. I've built web applications using the following technologies: Javascript, React, HTML, CSS, TailwindCSS, MongoDB, NodeJS, Express
+🌱I'm Carmen, a Data Analysst currently living in Toronto.
 
+Here, you'll find some of my data projects using Excel, SQL, Python, Power BI, Tableau, and R. 
 
-
-I also share some of the data projects I've worked on using SQL, Excel, Tableau, and R!
-
-- 🌱 I’m currently learning Python.
-- 💬 Ask me about data!
-- 😄 Pronouns: She/Her
-
+⚡You can view more projects on my portfolio website: https://www.datascienceportfol.io/carmenchow
 
 
  
